@@ -1,4 +1,4 @@
-# Welcome, This is My Coding Journey!
+# Welcome, This is my journey!
 
 ![a highly stylized New York City skyline](joshPic.png)
 
