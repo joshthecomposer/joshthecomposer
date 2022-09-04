@@ -10,7 +10,7 @@ After awakening my interest in coding, I began toying with Python, JavaScript, a
 
 ## My goals:
 
-My ultimate goal is to get back in the music space, but as a software developer. I would love to work at a company creating VST instruments, Software Audio plugins, or even DAWs. However, I am interested in working in a non-music environment for many years before this so that my skills can be brought to the highest level. The first step is to complete my study at Coding Dojo, and by doing so I will have completed the following goals:
+My ultimate goal is to *eventually* get back into the music space, but as a software developer. I would love to work at a company creating VST instruments, Software Audio plugins, or even DAWs. However, I am interested in working in a non-music environment for many years before this so that my skills can be brought to the highest level. The first step is to complete my study at Coding Dojo, and by doing so I will have completed the following goals:
 
 * Become proficient in Python, Java, JavaScript, and C#.
 * Develop my intuition through repetition and practice with algorithm problems, both at Coding Dojo but also through sites such as CodeWars.
