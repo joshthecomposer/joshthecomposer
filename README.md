@@ -1,6 +1,6 @@
 # Welcome, This is my journey!
 
-![a highly stylized New York City skyline](joshPic.png)
+![pixel art of a city](city1.gif)
 
 ## About me:
 
