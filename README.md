@@ -14,7 +14,7 @@ My ultimate goal is to *eventually* get back into the music space, but as a soft
 
 * Become proficient in Python, Java, JavaScript, and C#.
 * Develop my intuition through repetition and practice with algorithm problems, both at Coding Dojo but also through sites such as CodeWars.
-* Develop a 3-5 solid portfolio projects that enhance my own life in some meaningful way.
+* Develop a 3-5 solid portfolio projects that enhance someone's life in some meaningful way.
 * Take my knowledge and begin my application process to companies that I like.
 * Begin my career as a software developer.
 * Always learn new things, and always practice music. Yes, music is still very important XD.
