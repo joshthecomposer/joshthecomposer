@@ -17,3 +17,5 @@ My ultimate goal is to *eventually* get back into the music space, but as a soft
 * Develop a 3-5 solid portfolio projects that enhance someone's life in some meaningful way.
 * Begin my career as a software developer.
 * Always learn new things, and always practice music. Yes, music is still very important XD.
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshthecomposer)](https://github.com/anuraghazra/github-readme-stats)
