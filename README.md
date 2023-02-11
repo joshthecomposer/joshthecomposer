@@ -2,7 +2,7 @@
 
 ![pixel art of a city](city1.gif)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshthecomposer&theme=dark&hide=html&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshthecomposer&theme=dark&hide=html,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me:
 
