@@ -12,4 +12,4 @@ After awakening my interest in coding, I began toying with Python, JavaScript, a
 
 ## My goals:
 
-My ultimate goal is to *eventually* get back into the music space, but as a software developer. I would love to work at a company creating VST instruments, Software Audio plugins, or DAWs. However, I am interested in working in a non-music environment for many years before this so that my skills can be brought to the highest level. I have these broad goals in mind as I continue my learning post-bootcamp and while applying to jobs.
+My ultimate goal is to *eventually* get back into the music space, but as a software developer. I would love to work at a company creating VST instruments, Software Audio plugins, or DAWs. However, I am interested in working in a non-music environment for many years before this so that my skills can be brought to the highest level.
