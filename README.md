@@ -3,7 +3,7 @@
 
 ## About me:
 
-My name is Joshua Wise, and I am a musician, sound designer, and software developer based in New York City. My current career is actually pretty exciting! I write music for various media, and my music as even been on TV! However, I fell in love with coding when I dipped my toes in the world of dynamic videogame music using FMOD—a C++-based middleware used for implementing dynamic music and audio. 
+My name is Joshua Wise, and I am a musician, sound designer, and software developer based in New York City. My current career is actually pretty exciting! I write music for various media, and my music as even been on TV! However, I fell in love with coding when I dipped my toes in the world of dynamic videogame music using FMOD—a middleware used for implementing dynamic music and audio. 
 
 After awakening my interest in coding, I began toying with Python, JavaScript, and C#. But I decided I needed to take my journey a step further, and I decided to hone my skills through a more structured program such as coding bootcamp. I setteled with the Full Stack Python course at Coding Dojo, and I've since finished, having learned a great deal about SOLID principles and OOP which have kickstarted my foundation in programming. Now my favorite stack is Blazor with ASP.NET WebApi, and I enjoy Tailwind for front-end styling.
 
